@@ -8,6 +8,7 @@ public class pipeline1 {
 		System.out.println(" hello");
 		System.out.println("java");
 		System.out.println("bsjbjas");
+		System.out.println("bsjbjas");
 	}
 
 }
