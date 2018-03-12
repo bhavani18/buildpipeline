@@ -8,13 +8,7 @@ public class pipeline1 {
 		System.out.println(" hello");
 		System.out.println("java");
 		System.out.println("bsjbjas");
-		System.out.println("bsjbjas");
-		System.out.println("nbfb");
-		System.out.println("bhavanibhavani  bhavani");
-		System.out.println("nbfb");
-		System.out.println("bhavanibhavani  bhavani");
-		System.out.println("hvhh");
-		System.out.println("jbjb j njmnkmnkm");
-	}
+		
 
+}
 }
